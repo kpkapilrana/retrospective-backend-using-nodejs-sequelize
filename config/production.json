@@ -1,0 +1,14 @@
+{
+    "recreateDB": false,
+    "db" : {
+        "dbname" : "retrospective",
+        "username" : "root",
+        "password" : null,
+        "options" : {
+            "host" : "localhost",
+            "port" : 3306, 
+            "dialect" : "mysql",
+            "logging": false
+        }
+    }
+}

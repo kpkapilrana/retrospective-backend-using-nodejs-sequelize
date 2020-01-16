@@ -1,0 +1,12 @@
+{
+    "recreateDB": false,
+    "db": {
+        "dbname": "retrospective",
+        "username": null,
+        "password": null,
+        "options": {
+            "dialect": "sqlite",
+            "storage": "./db/development.sqlite"
+        }
+    }
+}

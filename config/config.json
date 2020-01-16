@@ -1,0 +1,8 @@
+{
+  "development-local": {
+    "username": "root",
+    "password": null,
+    "database": "retrospective",
+    "dialect": "mysql"
+  }
+}
